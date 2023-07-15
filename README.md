@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a sophomore at Texas A&M University-Corpus Christi, studying Computer Science. I aim to become a skilled software engineer and positively impact people's lives.\
+I am a sophomore at Texas A&M University-Corpus Christi, studying Computer Science. I aim to become a skilled software engineer and positively impact people's lives.
 
-I’m currently working on: Citro hacks hackathon project\
+I’m currently working on: Citro hacks hackathon project
 
-How to reach me: https://www.linkedin.com/in/boris-hernandez-jr/\
+How to reach me: https://www.linkedin.com/in/boris-hernandez-jr/
 
-Pronouns: He/Him/His\
+Pronouns: He/Him/His
 
