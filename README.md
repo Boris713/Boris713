@@ -1,24 +1,11 @@
-### Hi there 👋
+I am a sophomore at Texas A&M University-Corpus Christi, studying Computer Science
 
-<!--
-**Boris713/Boris713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an incoming swe intern at Meta!
 
-Here are some ideas to get you started:
+I am working as an intern at Tella.Friend!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I am a sophomore at Texas A&M University-Corpus Christi, studying Computer Science. I aim to become a skilled software engineer and positively impact people's lives.
-
-I’m currently working on: Citro hacks hackathon project
+I am working on tech projects for my uni!
 
 How to reach me: https://www.linkedin.com/in/boris-hernandez-jr/
 
 Pronouns: He/Him/His
-
